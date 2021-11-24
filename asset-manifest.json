@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "https://salimnhiri.github.io/csb-x3rjk/static/css/main.dfe1c5b1.chunk.css",
-    "main.js": "https://salimnhiri.github.io/csb-x3rjk/static/js/main.41cd3b04.chunk.js",
-    "main.js.map": "https://salimnhiri.github.io/csb-x3rjk/static/js/main.41cd3b04.chunk.js.map",
-    "runtime-main.js": "https://salimnhiri.github.io/csb-x3rjk/static/js/runtime-main.79915e15.js",
-    "runtime-main.js.map": "https://salimnhiri.github.io/csb-x3rjk/static/js/runtime-main.79915e15.js.map",
+    "main.js": "https://salimnhiri.github.io/csb-x3rjk/static/js/main.17d39caa.chunk.js",
+    "main.js.map": "https://salimnhiri.github.io/csb-x3rjk/static/js/main.17d39caa.chunk.js.map",
+    "runtime-main.js": "https://salimnhiri.github.io/csb-x3rjk/static/js/runtime-main.25d37fba.js",
+    "runtime-main.js.map": "https://salimnhiri.github.io/csb-x3rjk/static/js/runtime-main.25d37fba.js.map",
     "static/css/2.d8cc838b.chunk.css": "https://salimnhiri.github.io/csb-x3rjk/static/css/2.d8cc838b.chunk.css",
-    "static/js/2.bd7a0dc5.chunk.js": "https://salimnhiri.github.io/csb-x3rjk/static/js/2.bd7a0dc5.chunk.js",
-    "static/js/2.bd7a0dc5.chunk.js.map": "https://salimnhiri.github.io/csb-x3rjk/static/js/2.bd7a0dc5.chunk.js.map",
+    "static/js/2.2167caeb.chunk.js": "https://salimnhiri.github.io/csb-x3rjk/static/js/2.2167caeb.chunk.js",
+    "static/js/2.2167caeb.chunk.js.map": "https://salimnhiri.github.io/csb-x3rjk/static/js/2.2167caeb.chunk.js.map",
     "index.html": "https://salimnhiri.github.io/csb-x3rjk/index.html",
     "static/css/2.d8cc838b.chunk.css.map": "https://salimnhiri.github.io/csb-x3rjk/static/css/2.d8cc838b.chunk.css.map",
     "static/css/main.dfe1c5b1.chunk.css.map": "https://salimnhiri.github.io/csb-x3rjk/static/css/main.dfe1c5b1.chunk.css.map",
-    "static/js/2.bd7a0dc5.chunk.js.LICENSE.txt": "https://salimnhiri.github.io/csb-x3rjk/static/js/2.bd7a0dc5.chunk.js.LICENSE.txt",
+    "static/js/2.2167caeb.chunk.js.LICENSE.txt": "https://salimnhiri.github.io/csb-x3rjk/static/js/2.2167caeb.chunk.js.LICENSE.txt",
     "static/media/icon.da3d65d5.png": "https://salimnhiri.github.io/csb-x3rjk/static/media/icon.da3d65d5.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.79915e15.js",
+    "static/js/runtime-main.25d37fba.js",
     "static/css/2.d8cc838b.chunk.css",
-    "static/js/2.bd7a0dc5.chunk.js",
+    "static/js/2.2167caeb.chunk.js",
     "static/css/main.dfe1c5b1.chunk.css",
-    "static/js/main.41cd3b04.chunk.js"
+    "static/js/main.17d39caa.chunk.js"
   ]
 }
