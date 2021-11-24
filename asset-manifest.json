@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "https://salimnhiri.github.io/csb-x3rjk/static/css/main.dfe1c5b1.chunk.css",
+    "main.js": "https://salimnhiri.github.io/csb-x3rjk/static/js/main.923b47dd.chunk.js",
+    "main.js.map": "https://salimnhiri.github.io/csb-x3rjk/static/js/main.923b47dd.chunk.js.map",
+    "runtime-main.js": "https://salimnhiri.github.io/csb-x3rjk/static/js/runtime-main.79915e15.js",
+    "runtime-main.js.map": "https://salimnhiri.github.io/csb-x3rjk/static/js/runtime-main.79915e15.js.map",
+    "static/css/2.d8cc838b.chunk.css": "https://salimnhiri.github.io/csb-x3rjk/static/css/2.d8cc838b.chunk.css",
+    "static/js/2.d8c3e7da.chunk.js": "https://salimnhiri.github.io/csb-x3rjk/static/js/2.d8c3e7da.chunk.js",
+    "static/js/2.d8c3e7da.chunk.js.map": "https://salimnhiri.github.io/csb-x3rjk/static/js/2.d8c3e7da.chunk.js.map",
+    "index.html": "https://salimnhiri.github.io/csb-x3rjk/index.html",
+    "static/css/2.d8cc838b.chunk.css.map": "https://salimnhiri.github.io/csb-x3rjk/static/css/2.d8cc838b.chunk.css.map",
+    "static/css/main.dfe1c5b1.chunk.css.map": "https://salimnhiri.github.io/csb-x3rjk/static/css/main.dfe1c5b1.chunk.css.map",
+    "static/js/2.d8c3e7da.chunk.js.LICENSE.txt": "https://salimnhiri.github.io/csb-x3rjk/static/js/2.d8c3e7da.chunk.js.LICENSE.txt",
+    "static/media/icon.da3d65d5.png": "https://salimnhiri.github.io/csb-x3rjk/static/media/icon.da3d65d5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.79915e15.js",
+    "static/css/2.d8cc838b.chunk.css",
+    "static/js/2.d8c3e7da.chunk.js",
+    "static/css/main.dfe1c5b1.chunk.css",
+    "static/js/main.923b47dd.chunk.js"
+  ]
+}
